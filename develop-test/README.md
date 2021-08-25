@@ -1,0 +1,1 @@
+# Minchan Generator
