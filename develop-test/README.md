@@ -1,1 +1,1 @@
-# Minchan Generator
+# KMC Generator
