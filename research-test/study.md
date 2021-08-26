@@ -23,7 +23,7 @@ Critic Loss + Gradient Penalty
 Adversarial Loss + Domain Classification Loss + Reconstruction Loss  
 하나의 신경망을 활용해서 다중 도메인 사이에서의 이미지 변환을 가능하게 한다.  
 
-# Start AN v2
+# StarGAN v2
 I2I는 두 개의 다른 비주얼 도메인 간의 매핑(변환)을 학습하는 것이 목표  
 도메인이란 시각적으로 구분되는 이미지의 집합
 
