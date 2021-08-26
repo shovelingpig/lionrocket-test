@@ -2,14 +2,14 @@
 Implicit Density Function  
 Generator와 Discriminator의 적대적 관계를 이용한 Min Max Game  
 
-# Conditional GAN
+# ConditionalGAN
 조건을 함께 입력  
 
 # Pix2Pix
 Image-to-Image Translation  
 Image를 Condition으로 입력한다.  
 
-# Cycle GAN
+# CycleGAN
 이미지의 Content를 유지하기 위해 Generator G와 Inverse Function F를 함께 학습시킨다.  
 
 # WGAN
@@ -19,11 +19,14 @@ Weight Clipping을 이용하여 제약조건을 만족하도록 한다.
 # WGAN-GP
 Critic Loss + Gradient Penalty  
 
-# Star GAN
+# StarGAN
 Adversarial Loss + Domain Classification Loss + Reconstruction Loss  
 하나의 신경망을 활용해서 다중 도메인 사이에서의 이미지 변환을 가능하게 한다.  
 
-# Start GAN v2
+# Start AN v2
+I2I는 두 개의 다른 비주얼 도메인 간의 매핑(변환)을 학습하는 것이 목표  
+도메인이란 시각적으로 구분되는 이미지의 집합
+
 
 ## Reference
 [Official Paper](https://arxiv.org/abs/1912.01865)  
