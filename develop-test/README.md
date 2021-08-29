@@ -10,7 +10,7 @@ StarGAN v2 Official Implementation을 Custom한 소스코드의 Github 저장소
 
 저희 집 고양이 링가입니다. 아주 귀엽습니다.
 
-<img src="/assets/result/linga.jpeg" width="500" height="500" />
+<img src="/assets/result/linga.jpeg" width="300" height="300" />
 
 저희 집 고양이 링가의 Identity에 검정색 강아지의 Domain과 Style을 합성해보았습니다.
 
