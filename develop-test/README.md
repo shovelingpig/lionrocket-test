@@ -16,9 +16,9 @@
 
 ## All Fake Images
 
-<img src="/assets/result/celeba_result2.jpg" />
-
 <img src="/assets/result/afhq_result1.jpg" />
+
+<img src="/assets/result/celeba_result2.jpg" />
 
 ---
 
