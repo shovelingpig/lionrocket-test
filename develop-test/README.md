@@ -4,7 +4,7 @@
 
 ---
 
-## Example Generated Images
+## Example Fake Images
 
 <img src="/assets/result/linga_plus_dog.jpg" width="500" height="500" />
 
@@ -14,7 +14,7 @@
 
 ---
 
-## All Generated Images
+## All Fake Images
 
 <img src="/assets/result/celeba_result2.jpg" />
 
@@ -22,4 +22,4 @@
 
 ---
 
-## Generated Iterpolation Video
+## Iterpolation Video
