@@ -1,7 +1,7 @@
 # StarGAN v2 Review
 
 ## 요약
-### 1. 문제를 제기하게 된 배경
+### 1. 배경
 MWGAN이나 StyleGAN 등 Style Diversity를 달성한 모델들은 단일 신경망으로 다중 도메인 간 I2I 변환을 할 수 없는 **Scalability**의 한계가 있었고, StarGAN 등 Scalability를 달성한 모델들은 항상 각 도메인당 동일한 Output을 생성하는 **Style Diversity**의 한계가 있었다. 
 
 ### 2. 저자가 해결하고자 하는 문제
@@ -11,12 +11,12 @@ MWGAN이나 StyleGAN 등 Style Diversity를 달성한 모델들은 단일 신경
 임의의 Gaussian Noise를 Style code로 변환하는 과정을 학습하는 **Mapping Network**와 주어진 Reference Image에서 Style Code를 추출하는 과정을 학습하는 **Style Encoder**를 활용하여, 기존의 고정된 Domain Label을 다양한 스타일을 표현할 수 있는 Domain-specific **Style Code**로 대체한다.
 
 ### 4. 해결방안을 도입한 근거
-- Adversarial Loss: Generator가 더 진짜같은 이미지를 생성하도록 하는 Loss 
-- Style Reconstruction Loss: Generator가 이미지 생성에 Style을 활용하도록 강제하는 Loss
-- Style Diversification Loss: Generator가 더 다양한 Style의 이미지를 생성하도록 Image Space를 돌아다니게 만드는 Loss
-- Cycle Consistency Loss: Generator가 이미지의 Identity는 자체는 보존하도록 하는 Loss
+- **Adversarial Loss**: Generator가 더 진짜같은 이미지를 생성하도록 하는 Loss 
+- **Style Reconstruction Loss**: Generator가 이미지 생성에 Style을 활용하도록 강제하는 Loss
+- **Style Diversification Loss**: Generator가 더 다양한 Style의 이미지를 생성하도록 Image Space를 돌아다니게 만드는 Loss
+- **Cycle Consistency Loss**: Generator가 이미지의 Identity는 자체는 보존하도록 하는 Loss
 
-### 5. 이전까지 논문들과의 차이점
+### 5. 이전 논문들과의 차이점
 StarGAN v2는 Celeb-HQ 데이터셋과 AFHQ 데이터셋에 대한 정량적인 평가(FID, LPIPS)와 정성적인 평가(AMT) 결과, 기존의 다른 모델들보다 **생성된 이미지의 질(Visual Quality)**, **스타일의 다양성(Diversity)**, **다중 도메인으로의 확장 가능성(Scalability)** 측면에서 상대적으로 성능이 우수하다.
 
 ---
