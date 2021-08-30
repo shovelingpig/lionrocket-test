@@ -15,7 +15,7 @@
 - Pytorch Official Implementation을 클론코딩하며 세부 구현 이해
 - 클론코딩한 소스코드에 필요한 기능을 추가하여 Custom Implementation 작성
 - Custom Implementation을 이용해 실험코드 작성
-- CelebA-HQ 데이터셋을 활용해 나 자신을 여러 스타일로 변환
-- AFHQ 데이터셋을 활용해 우리집 고양이를 여러 스타일로 변환
-- 나 자신을 우리집 고양이 스타일로 변환
-- 논문 리뷰에 한계점이나 궁금한 점으로 적어뒀던 부분을 Custom 코드로로 직접 구현하여 테스트
+- CelebA-HQ 데이터셋을 활용하여 나의 Identity에 다양한 스타일을 합성
+- AFHQ 데이터셋을 활용하여 우리집 고양이의 Identity에 다양한 스타일을 합성
+- 나 자신의 Identit에 우리집 고양이의 스타일을 합성하여 고양이 인간 생성
+- 논문 리뷰에 한계점이나 궁금한 점으로 적어뒀던 부분을 Custom 코드로 직접 구현하여 테스트
