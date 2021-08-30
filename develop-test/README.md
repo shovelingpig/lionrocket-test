@@ -4,7 +4,7 @@ StarGAN v2 Official Implementation을 Custom한 소스코드의 Github 저장소
 
 [Minchan's Custom Implementation](https://github.com/shoveling-pig/custom-stargan-v2)
 
-학습된 모델의 Checkpoint는 Github Release에 업로드되어 있습니다.
+학습된 모델의 Checkpoint는 Github Release 압축 파일 형식으로 업로드되어 있습니다.
 
 ---
 
