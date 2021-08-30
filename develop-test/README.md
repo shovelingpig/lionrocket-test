@@ -4,7 +4,7 @@ StarGAN v2 Official Implementation을 Custom한 소스코드의 Github 저장소
 
 [Minchan's Custom Implementation](https://github.com/shoveling-pig/custom-stargan-v2)
 
-학습된 모델의 Checkpoint는 /develop-test/ckpt/ 폴더에 압축 파일로 저장되어 있습니다.
+학습된 모델의 Checkpoint는 Github Release에 업로드되어 있습니다.
 
 ---
 
@@ -26,7 +26,7 @@ StarGAN v2 Official Implementation을 Custom한 소스코드의 Github 저장소
 
 <img src="/assets/result/cafe_cat_man.jpeg" width="500" height="500" />
 
-제 어릴적 모습의 Identity에 저희 고양이 링가의 Domain과 Style을 합성해보았습니다. AFHQ 데이터셋으로만 학습된 모델이라 그런지 Visual Quality가 높지는 않지만 느낌은 그럴싸합니다.
+제 어릴적 모습의 Identity에 저희 집 고양이 링가의 Domain과 Style을 합성해보았습니다. AFHQ 데이터셋으로만 학습된 모델이라 그런지 Visual Quality가 높지는 않지만 느낌은 그럴싸합니다.
 
 <img src="/assets/result/baby_plus_linga.PNG" width="500" height="500" />
 
