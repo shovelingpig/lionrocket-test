@@ -30,7 +30,7 @@ StarGAN v2는 Celeb-HQ 데이터셋과 AFHQ 데이터셋에 대한 정량적인 
 - StarGAN v2에 MMW Distance(Multi-marginal Wasserstein Distance)를 적용할 수는 없을까?
 - FID와 LPIPS가 각각 Visual Quality와 Diversity를 평가하기에 가장 적절한 지표일까?
 - Reference Image를 이용한 이미지 합성을 통해 만들 수 있는 성형, 미용, 패션, 예술 등의 분야의 재밌는 프로덕트는 없을까? (예를 들어 고객이 자신이 좋아하는 연예인의 사진을 Reference Image로 입력하면 특정 부위 성형 후 고객의 얼굴을 생성해주는 모델을 만들 수는 없을까?) 
-- Style/Domain/Identity의 정의가 애매하지 않나?
+- Style과 Identity의 정의가 모호하다. 더 수학적으로 엄밀하게 정의할 수는 없을까?
 - 이미지 속 다양한 Attribute 집합의 Combination 중에서 특정 Combination을 선택하여 각각을 Style, Domain, Identity로 설정할 수는 없을까?
 - 선택적인 데이터 라벨링을 통해서만 이러한 구분을 설정할 수 있는 걸까? 모델링 구조를 통해서 이러한 구분을 하이퍼파라미터로 더 유연하게 설정할수는 없을까? (예를 들어 특정 연예인의 코로 성형한 내 모습을 보고 싶으면 코의 모양만을 Identity에서 제외시키고 Style로 포함시킬 수는 없을까?)
 ---
