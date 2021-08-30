@@ -24,7 +24,6 @@ StarGAN v2는 Celeb-HQ 데이터셋과 AFHQ 데이터셋에 대한 정량적인 
 ## 한계
 - 학습 속도가 느리다. (100K iteration, 3 days on a single Tesla V100 GPU)
 - 기존보다 더 다양한 스타일의 분포를 학습하긴 하지만, 여전히 모든 스타일에 대한 전체적인 분포는 학습하지는 못한다.
-- Style Diversification Loss의 목적함수는 최적화 지점이 없기 때문에 선형적으로 Weight를 0으로 줄여가며 학습(Decaying)해야 한다.
 ---
 
 ## 궁금한 점
