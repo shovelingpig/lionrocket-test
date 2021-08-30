@@ -4,6 +4,8 @@ StarGAN v2 Official Implementation을 Custom한 소스코드의 Github 저장소
 
 [Minchan's Custom Implementation](https://github.com/shoveling-pig/custom-stargan-v2)
 
+학습된 모델의 Checkpoint는 /develop-test/ckpt/ 폴더에 압축 파일로 저장되어 있습니다.
+
 ---
 
 ## Example Fake Images
