@@ -5,6 +5,9 @@
 - [블로그 리뷰](https://shoveling-pig.github.io/dev/2021/08/26/dev-ml-stargan-v2/)
 
 ## Research 과제 준비과정
+
+/research-test/ directory의 README.md 파일에 논문 요약 리뷰가 작성되어 있습니다.
+
 - 논문 정독
 - 관련 블로그 정독
 - 관련 유튜브 영상 정독
@@ -12,6 +15,9 @@
 - 블로그 리뷰 작성
 
 ## Develop 과제 준비과정
+
+/develop-test/ directory의 README.md 파일에 기술과제 결과 보고서가 작성되어 있습니다.
+
 - 실험환경 구축
 - Pytorch Official Implementation을 클론코딩하며 세부 구현 이해
 - 클론코딩한 소스코드에 필요한 기능을 추가하여 Custom Implementation 작성
