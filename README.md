@@ -6,7 +6,7 @@
 
 ## Research 과제 준비과정
 
-/research-test/ directory의 README.md 파일에 `논문 요약 리뷰`가 작성되어 있습니다.
+**/research-test/** directory의 README.md 파일에 `논문 요약 리뷰`가 작성되어 있습니다.
 
 - 논문 정독
 - 관련 블로그 정독
@@ -16,7 +16,7 @@
 
 ## Develop 과제 준비과정
 
-/develop-test/ directory의 README.md 파일에 `기술과제 결과 보고서`가 작성되어 있습니다.
+**/develop-test/** directory의 README.md 파일에 `기술과제 결과 보고서`가 작성되어 있습니다.
 
 - 실험환경 구축
 - Pytorch Official Implementation을 클론코딩하며 세부 구현 이해
