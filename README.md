@@ -18,6 +18,8 @@
 
 /develop-test/ directory의 README.md 파일에 기술과제 결과 보고서가 작성되어 있습니다.
 
+(학습된 모델의 Checkpoint는 해당 Repository의 Github Release에 압축 파일 형식으로 업로드되어 있습니다.)
+
 - 실험환경 구축
 - Pytorch Official Implementation을 클론코딩하며 세부 구현 이해
 - 클론코딩한 소스코드에 필요한 기능을 추가하여 Custom Implementation 작성
