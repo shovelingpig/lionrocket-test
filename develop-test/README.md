@@ -49,3 +49,7 @@ CelebA-HQ 데이터셋을 학습한 모델을 활용해 생성한 이미지들�
 <img src="/assets/result/celeba_result2.jpg" />
 
 ---
+
+## Weight & Bias Training Report
+
+[Traning Report](https://wandb.ai/minchan/custom-stargan-v2/reports/Training-Report--Vmlldzo5ODI4NjQ?accessToken=827xwqlte3oee2en99n215davq9636zasm4y2l96g99sqz7wjn2rnaprw3m47sim)
