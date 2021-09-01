@@ -8,7 +8,7 @@ MWGAN이나 StyleGAN 등 Style Diversity를 달성한 모델들은 단일 신경
 다중 도메인으로 확장 가능할뿐만 아니라 다양한 스타일의 이미지를 생성할 수 있는 **Scalability와 Style Diversity를 모두 갖춘 신경망**을 만들자.
 
 ### 3. 문제 해결을 위해 도입한 방법론
-임의의 Gaussian Noise를 Style code로 변환하는 과정을 학습하는 **Mapping Network**와 주어진 Reference Image에서 Style Code를 추출하는 과정을 학습하는 **Style Encoder**를 활용하여, 기존의 고정된 Domain Label을 다양한 스타일을 표현할 수 있는 Domain-specific **Style Code**로 대체한다.
+임의의 Gaussian Noise를 Style code로 변환하는 과정을 학습하는 **Mapping Network**와 주어진 Reference Image에서 Style Code를 추출하는 과정을 학습하는 **Style Encoder**를 활용하여, 기존의 고정된 Domain Label을 다양한 스타일을 표현할 수 있는 **Domain-specific Style Code**로 대체한다.
 
 ### 4. 해결방안을 도입한 근거
 - **Adversarial Loss**: Generator가 더 진짜같은 이미지를 생성하도록 하는 Loss 
