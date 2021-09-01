@@ -1,4 +1,4 @@
-# Lion Rocket 기술과제
+# Lion Rocket 기술 과제
 - 기한: 9월 1일 (수) 오후 6시
 - 분야: 영상
 - 선정 논문: StarGAN v2
