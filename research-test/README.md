@@ -12,7 +12,7 @@ MWGAN이나 StyleGAN 등 Style Diversity를 달성한 모델들은 단일 신경
 
 ### 4. 해결방안을 도입한 근거
 - **Adversarial Loss**: Generator가 더 진짜같은 이미지를 생성하도록 하는 Loss 
-- **Style Reconstruction Loss**: Generator가 이미지 생성에 Style을 활용하도록 강제하는 Loss
+- **Style Reconstruction Loss**: Generator가 이미지 생성에 Style Code를 활용하도록 강제하는 Loss
 - **Style Diversification Loss**: Generator가 더 다양한 Style의 이미지를 생성하도록 Image Space를 돌아다니게 만드는 Loss
 - **Cycle Consistency Loss**: Generator가 이미지의 Identity는 자체는 보존하도록 하는 Loss
 
