@@ -24,7 +24,7 @@
 - Custom Implementation을 이용해 실험코드 작성
 - CelebA-HQ 데이터셋을 활용하여 나의 Identity에 다양한 스타일을 합성
 - AFHQ 데이터셋을 활용하여 우리집 고양이의 Identity에 다양한 스타일을 합성
-- 나 자신의 Identit에 우리집 고양이의 스타일을 합성하여 고양이 인간 생성
+- 나 자신의 Identity에 우리집 고양이의 스타일을 합성하여 고양이 인간 생성
 - 논문 리뷰에 한계점이나 궁금한 점으로 적어뒀던 부분을 Custom 코드로 직접 구현하여 테스트
 
 (학습된 모델의 `Checkpoint`는 본 Repository의 **Github Release**에 압축 파일 형식으로 업로드되어 있습니다.)
