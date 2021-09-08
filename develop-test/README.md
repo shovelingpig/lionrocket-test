@@ -30,7 +30,7 @@ StarGAN v2 Official Implementation을 Custom한 소스코드의 Github 저장소
 
 ---
 
-## Iterpolation Videos
+## Interpolation Videos
 
 AFHQ 데이터셋을 학습한 모델을 활용해 생성한 이미지들입니다.
 
